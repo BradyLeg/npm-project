@@ -24,8 +24,8 @@
   },
   "contributors": [],
   "scripts": {
-    "dev": "",
-    "test": ""
+    "start": "node main.js",
+    "hello": "node hello.js"
   },
   "dependencies": {
     "@faker-js/faker": "^9.6.0",
